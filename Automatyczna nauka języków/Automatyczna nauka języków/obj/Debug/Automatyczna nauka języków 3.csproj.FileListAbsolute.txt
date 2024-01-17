@@ -1,0 +1,44 @@
+c:\users\admin\documents\visual studio 2015\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\bin\Debug\Automatyczna nauka języków 3.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\bin\Debug\Automatyczna nauka języków 3.exe
+c:\users\admin\documents\visual studio 2015\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\bin\Debug\Automatyczna nauka języków 3.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna nauka języków 3.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna_nauka_języków_3.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna_nauka_języków_3.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna nauka języków 3.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna nauka języków 3.exe
+c:\users\admin\documents\visual studio 2015\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna nauka języków 3.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna_nauka_języków_3.FormAddWordbase.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna_nauka_języków_3.FormLearning.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna_nauka_języków_3.FormControlKeys.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna_nauka_języków_3.FormHelp.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna_nauka_języków_3.FormAddWord.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\bin\Debug\Automatyczna nauka języków 3.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\bin\Debug\Automatyczna nauka języków 3.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\bin\Debug\Automatyczna nauka języków 3.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna_nauka_języków_3.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna_nauka_języków_3.FormAddWord.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna_nauka_języków_3.FormAddWordbase.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna_nauka_języków_3.FormControlKeys.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna_nauka_języków_3.FormHelp.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna_nauka_języków_3.FormLearning.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna_nauka_języków_3.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna nauka języków 3.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna nauka języków 3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna nauka języków 3.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna nauka języków 3.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna nauka języków 3.csprojAssemblyReference.cache
+C:\Users\m\Documents\Visual Studio 2019\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna_nauka_języków_3.Form1.resources
+C:\Users\m\Documents\Visual Studio 2019\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna_nauka_języków_3.FormAddWord.resources
+C:\Users\m\Documents\Visual Studio 2019\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna_nauka_języków_3.FormAddWordbase.resources
+C:\Users\m\Documents\Visual Studio 2019\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna_nauka_języków_3.FormControlKeys.resources
+C:\Users\m\Documents\Visual Studio 2019\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna_nauka_języków_3.FormHelp.resources
+C:\Users\m\Documents\Visual Studio 2019\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna_nauka_języków_3.FormLearning.resources
+C:\Users\m\Documents\Visual Studio 2019\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna_nauka_języków_3.Properties.Resources.resources
+C:\Users\m\Documents\Visual Studio 2019\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna nauka języków 3.csproj.GenerateResource.cache
+C:\Users\m\Documents\Visual Studio 2019\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna nauka języków 3.csproj.CoreCompileInputs.cache
+C:\Users\m\Documents\Visual Studio 2019\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna nauka języków 3.exe
+C:\Users\m\Documents\Visual Studio 2019\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna nauka języków 3.pdb
+C:\Users\m\Documents\Visual Studio 2019\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\bin\Debug\Automatyczna nauka języków 3.exe.config
+C:\Users\m\Documents\Visual Studio 2019\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\bin\Debug\Automatyczna nauka języków 3.exe
+C:\Users\m\Documents\Visual Studio 2019\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\bin\Debug\Automatyczna nauka języków 3.pdb
+C:\Users\m\Documents\Visual Studio 2019\Projects\Automatyczna nauka języków 3\Automatyczna nauka języków 3\obj\Debug\Automatyczna nauka języków 3.csproj.AssemblyReference.cache

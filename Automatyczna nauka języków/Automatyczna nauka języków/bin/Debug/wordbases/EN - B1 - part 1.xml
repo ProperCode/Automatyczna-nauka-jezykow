@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<word xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <word>
+    <f_word>armed forces</f_word>
+    <n_word>siły zbrojne</n_word>
+    <f_sentence>He joined the armed forces in 1954.</f_sentence>
+    <n_sentence>Wstąpił do sił zbrojnych w roku 1954.</n_sentence>
+  </word>
+  <word>
+    <f_word>air force</f_word>
+    <n_word>siły powietrzne, lotnictwo</n_word>
+    <f_sentence>Her grandfather served in the air force for thirty years.</f_sentence>
+    <n_sentence>Jej dziadek służył trzydzieści lat w siłach powietrznych.</n_sentence>
+  </word>
+  <word>
+    <f_word>colonel</f_word>
+    <n_word>pułkownik</n_word>
+    <f_sentence>The old colonel has a big moustache.</f_sentence>
+    <n_sentence>Stary pułkownik ma wielkie wąsy.</n_sentence>
+  </word>
+  <word>
+    <f_word>barracks</f_word>
+    <n_word>koszary</n_word>
+    <f_sentence>The soldiers returned to the barracks at three o'clock.</f_sentence>
+    <n_sentence>Żołnierze wrócili do koszar o trzeciej.</n_sentence>
+  </word>
+  <word>
+    <f_word>bomber</f_word>
+    <n_word>bombowiec</n_word>
+    <f_sentence>The bomber flew over the destroyed town.</f_sentence>
+    <n_sentence>Bombowiec przelatywał nad zniszczonym miasteczkiem.</n_sentence>
+  </word>
+  <word>
+    <f_word>fighter</f_word>
+    <n_word>myśliwiec</n_word>
+    <f_sentence>The pilot of the fighter was quite young and brave.</f_sentence>
+    <n_sentence>Pilot myśliwca był dość młody i odważny.</n_sentence>
+  </word>
+  <word>
+    <f_word>guard</f_word>
+    <n_word>gwardia</n_word>
+    <f_sentence>The Royal Guard stood at the gate.</f_sentence>
+    <n_sentence>Gwardia królewska stała przed bramą.</n_sentence>
+  </word>
+  <word>
+    <f_word>platoon</f_word>
+    <n_word>pluton</n_word>
+    <f_sentence>The platoon entered enemy territory in the middle of the night.</f_sentence>
+    <n_sentence>Pluton wkroczył na terytorium wroga w środku nocy.</n_sentence>
+  </word>
+  <word>
+    <f_word>submarine</f_word>
+    <n_word>łódź podwodna</n_word>
+    <f_sentence>The ship was attacked by three submarines.</f_sentence>
+    <n_sentence>Statek został zaatakowany przez trzy łódzie podwodne.</n_sentence>
+  </word>
+  <word>
+    <f_word>military</f_word>
+    <n_word>wojskowy</n_word>
+    <f_sentence>She plays the trumpet in the military band.</f_sentence>
+    <n_sentence>Ona gra na trąbce w orkiestrze wojskowej.</n_sentence>
+  </word>
+  <word>
+    <f_word>brigade</f_word>
+    <n_word>brygada</n_word>
+    <f_sentence>There are nine thousand soldiers in the brigade.</f_sentence>
+    <n_sentence>W brygadzie jest 9 tysięcy żołnierzy.</n_sentence>
+  </word>
+  <word>
+    <f_word>private</f_word>
+    <n_word>szeregowy</n_word>
+    <f_sentence>The corporal spoke to the young privates.</f_sentence>
+    <n_sentence>Kapral rozmawiał z młodymi szeregowymi.</n_sentence>
+  </word>
+  <word>
+    <f_word>recruit</f_word>
+    <n_word>rekrut</n_word>
+    <f_sentence>The army is looking for new recruits.</f_sentence>
+    <n_sentence>Wojsko poszukuje nowych rekrutów.</n_sentence>
+  </word>
+  <word>
+    <f_word>infantry</f_word>
+    <n_word>piechota</n_word>
+    <f_sentence>The heavy infantry marched along the empty street.</f_sentence>
+    <n_sentence>Ciężka piechota maszerowała po pustej ulicy.</n_sentence>
+  </word>
+  <word>
+    <f_word>squadron</f_word>
+    <n_word>szwadron</n_word>
+    <f_sentence>He served in the Royal Air Force's youngest squadron.</f_sentence>
+    <n_sentence>Służył w najmłodszym szwadronie RAF-u.</n_sentence>
+  </word>
+  <word>
+    <f_word>missile weapons</f_word>
+    <n_word>broń rakietowa</n_word>
+    <f_sentence>The country has a huge number of missile weapons.</f_sentence>
+    <n_sentence>Kraj ma olbrzymią ilość broni rakietowej.</n_sentence>
+  </word>
+  <word>
+    <f_word>marketplace, market</f_word>
+    <n_word>rynek</n_word>
+    <f_sentence>Those are the ruins of an old marketplace from 14th Century.</f_sentence>
+    <n_sentence>Są to ruiny starego rynku z XIV wieku.</n_sentence>
+  </word>
+  <word>
+    <f_word>charge</f_word>
+    <n_word>pobierać opłatę</n_word>
+    <f_sentence>Entrance is free of charge.</f_sentence>
+    <n_sentence>Wstęp jest bezpłatny.</n_sentence>
+  </word>
+  <word>
+    <f_word>maze, labyrinth</f_word>
+    <n_word>labirynt (np. ułożony z żywopłotu)</n_word>
+    <f_sentence>Some famous gardens were designed in such a way that you feel like in a regular maze. </f_sentence>
+    <n_sentence>Niektóre słynne ogrody zostały zaprojektowane w taki sposób, że czujesz się jak w typowym labiryncie</n_sentence>
+  </word>
+  <word>
+    <f_word>packed, crowded</f_word>
+    <n_word>zatłoczony</n_word>
+    <f_sentence>The national museum is usually packed at weekends.</f_sentence>
+    <n_sentence>Muzeum narodowe jest zazwyczaj zatłoczone w weekendy.</n_sentence>
+  </word>
+  <word>
+    <f_word>worth seeing</f_word>
+    <n_word>warty zobaczenia</n_word>
+    <f_sentence>The stronghold is really worth seeing.</f_sentence>
+    <n_sentence>Twierdza jest naprawdę warta zobaczenia.</n_sentence>
+  </word>
+</word>

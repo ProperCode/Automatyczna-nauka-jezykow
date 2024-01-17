@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wordbase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <wordbase>
+    <name>EN - 34. Przysłowia, cytaty</name>
+    <current_word_nr>0</current_word_nr>
+    <words_nr>159</words_nr>
+  </wordbase>
+  <wordbase>
+    <name>EN - B1 - part 1</name>
+    <current_word_nr>0</current_word_nr>
+    <words_nr>21</words_nr>
+  </wordbase>
+  <wordbase>
+    <name>EN - Irregular Verbs</name>
+    <current_word_nr>0</current_word_nr>
+    <words_nr>237</words_nr>
+  </wordbase>
+</wordbase>

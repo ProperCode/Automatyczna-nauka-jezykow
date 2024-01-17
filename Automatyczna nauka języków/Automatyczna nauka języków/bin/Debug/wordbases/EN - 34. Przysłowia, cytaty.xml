@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="utf-8"?>
+<word xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <word>
+    <f_word>first things first</f_word>
+    <n_word>wszystko w swoim czasie</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>all's fair in love and war</f_word>
+    <n_word>w miłości i na wojnie wszystkie chwyty są dozwolone</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>all's well that ends well</f_word>
+    <n_word>wszystko dobre, co się dobrze kończy</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>all roads lead to Rome</f_word>
+    <n_word>wszystkie drogi prowadzą do Rzymu</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>curiosity killed the cat</f_word>
+    <n_word>ciekawość to pierwszy stopień do piekła</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>better late than never</f_word>
+    <n_word>lepiej późno niż wcale</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>easy come, easy go</f_word>
+    <n_word>łatwo przyszło, łatwo poszło</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>easier said than done</f_word>
+    <n_word>łatwiej powiedzieć niż zrobić</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>first come, first served</f_word>
+    <n_word>kto pierwszy, ten lepszy</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>haste makes waste</f_word>
+    <n_word>co nagle, to po diable</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>I think, therefore I am</f_word>
+    <n_word>myślę, więc jestem</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>it takes two to tango</f_word>
+    <n_word>do tanga trzeba dwojga</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>laughter is the best medicine</f_word>
+    <n_word>śmiech to zdrowie</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>like father, like son</f_word>
+    <n_word>jaki ojciec, taki syn</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>love is blind</f_word>
+    <n_word>miłość jest ślepa</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>make haste slowly</f_word>
+    <n_word>śpiesz się powoli</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>silence is golden</f_word>
+    <n_word>milczenie jest złotem</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>tastes differ</f_word>
+    <n_word>gusta są różne</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>time flies</f_word>
+    <n_word>czas ucieka</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>time is money</f_word>
+    <n_word>czas to pieniądz</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>too many cooks spoil the broth</f_word>
+    <n_word>gdzie kucharek sześć, tam nie ma co jeść</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>two heads are better than one</f_word>
+    <n_word>co dwie głowy, to nie jedna</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>when in Rome, do as the Romans do</f_word>
+    <n_word>kiedy wejdziesz między wrony, musisz krakać jak i one</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>a lie has no legs</f_word>
+    <n_word>kłamstwo ma krótkie nogi</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>paddle your own canoe</f_word>
+    <n_word>każdy jest kowalem własnego losu</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>you can’t please everyone</f_word>
+    <n_word>jeszcze się taki nie urodził, co by wszystkim dogodził</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>clothes do not make the man</f_word>
+    <n_word>nie szata zdobi człowieka</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>every dog has his day</f_word>
+    <n_word>każdy ma swój szczęśliwy dzień w życiu</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>never say never</f_word>
+    <n_word>nigdy nie mów nigdy</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>necessity is the mother of invention</f_word>
+    <n_word>potrzeba jest matką wynalazku</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>a little bird told me</f_word>
+    <n_word>obiło mi się o uszy</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>at (the) first glimpse</f_word>
+    <n_word>na pierwszy rzut oka</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>back to square one</f_word>
+    <n_word>wrócić do punktu wyjścia</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>calm before the storm</f_word>
+    <n_word>cisza przed burzą</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>eat one's own words</f_word>
+    <n_word>przyznać się do błędu, odwołać swoje słowa</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>fly off the handle</f_word>
+    <n_word>dostać szału</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>from head to toe</f_word>
+    <n_word>od stóp do głów</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>give somebody the green light</f_word>
+    <n_word>dać komuś zielone światło</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>grin and bear it</f_word>
+    <n_word>robić dobrą minę do złej gry</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>hit-and-run</f_word>
+    <n_word>wypadek, z miejsca którego sprawca zbiegł</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>keep an eye on somebody</f_word>
+    <n_word>mieć kogoś na oku</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>keep own's eyes open</f_word>
+    <n_word>mieć oczy szeroko otwarte</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>make ends meet</f_word>
+    <n_word>wiązać koniec z końcem</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>on the house</f_word>
+    <n_word>na koszt firmy</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>once and for all</f_word>
+    <n_word>raz na zawsze</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>play a trick on somebody</f_word>
+    <n_word>płatać komuś figle</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>rock the boat</f_word>
+    <n_word>wprowadzać zamęt</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>safe and sound</f_word>
+    <n_word>cały i zdrowy</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>third time lucky</f_word>
+    <n_word>do trzech razy sztuka</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>make a bet</f_word>
+    <n_word>założyć się</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>make a promise</f_word>
+    <n_word>złożyć obietnicę</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>basic error</f_word>
+    <n_word>podstawowy błąd</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>hard job</f_word>
+    <n_word>ciężka praca</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>it is about time</f_word>
+    <n_word>najwyższy czas</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>just in time</f_word>
+    <n_word>w odpowiednim momencie</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>real world</f_word>
+    <n_word>prawdziwy świat</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>waste time</f_word>
+    <n_word>marnować czas</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>follow a crowd</f_word>
+    <n_word>iść za tłumem, podążać za tłumem</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>look after health</f_word>
+    <n_word>dbać o zdrowie</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>make progress</f_word>
+    <n_word>robić postępy</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>painful decision</f_word>
+    <n_word>bolesna decyzja, ciężka decyzja</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>save time</f_word>
+    <n_word>zaoszczędzić czas</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>special day</f_word>
+    <n_word>wyjątkowy dzień</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>a bird in the hand is worth two in the bush</f_word>
+    <n_word>lepszy wróbel w garści niż gołąb na dachu</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>a sound mind in a sound body</f_word>
+    <n_word>w zdrowym ciele zdrowy duch</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>a friend in need is a friend indeed</f_word>
+    <n_word>prawdziwych przyjaciół poznajemy w biedzie</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>a penny saved is a penny earned</f_word>
+    <n_word>grosz do grosza, a zbierze się pół kosza</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>as old as the hills</f_word>
+    <n_word>stary jak świat</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>actions speak louder than words</f_word>
+    <n_word>czyny przemawiają głośniej niż słowa</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>all good things must come to an end</f_word>
+    <n_word>wszystko, co dobre, musi się kiedyś skończyć</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>beauty is in the eye of the beholder</f_word>
+    <n_word>piękno jest rzeczą względną</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>better safe than sorry</f_word>
+    <n_word>przezorny zawsze ubezpieczony</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>do not triumph before the victory</f_word>
+    <n_word>nie dziel skóry na niedźwiedziu</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>fortune favours the bold</f_word>
+    <n_word>odważnym szczęście sprzyja</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>half a loaf is better than none</f_word>
+    <n_word>lepszy rydz niż nic</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>forbidden fruit is sweetest</f_word>
+    <n_word>zakazany owoc najlepiej smakuje</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>let bygones be bygones</f_word>
+    <n_word>co było, to było</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>look before you leap</f_word>
+    <n_word>mierz siły na zamiary</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>never judge a book by its cover</f_word>
+    <n_word>nie oceniaj książki po okładce</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>no joy without annoy</f_word>
+    <n_word>nie ma róży bez kolców</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>one swallow does not make a summer</f_word>
+    <n_word>jedna jaskółka wiosny nie czyni</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>out of sight, out of mind</f_word>
+    <n_word>czego oczy nie widzą, tego sercu nie żal</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>the pen is mightier than the sword</f_word>
+    <n_word>pióro potężniejsze od miecza</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>practice makes perfect</f_word>
+    <n_word>praktyka czyni mistrza</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>prevention is better than cure</f_word>
+    <n_word>lepiej zapobiegać niż leczyć</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>sink or swim</f_word>
+    <n_word>wóz albo przewóz</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>the end justifies the means</f_word>
+    <n_word>cel uświęca środki</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>you win some, you lose some</f_word>
+    <n_word>raz na wozie, raz pod wozem</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>forewarned is forearmed</f_word>
+    <n_word>strzeżonego pan Bóg strzeże</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>home is where the heart is</f_word>
+    <n_word>tam mój dom, gdzie serce moje</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>if you can't beat them, join them</f_word>
+    <n_word>jeśli nie możesz ich pokonać, przyłącz się do nich</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>ignorance is bliss</f_word>
+    <n_word>niewiedza jest błogosławieństwem</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>lend your money and lose your friend</f_word>
+    <n_word>dobry zwyczaj, nie pożyczaj</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>sake</f_word>
+    <n_word>wzgląd</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>a hard nut to crack</f_word>
+    <n_word>twardy orzech do zgryzienia</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>come to light</f_word>
+    <n_word>wyjść na jaw</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>few and far between</f_word>
+    <n_word>rzadko, nieczęsto</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>fight your corner</f_word>
+    <n_word>walczyć o swoje</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>no pain, no gain</f_word>
+    <n_word>bez pracy nie ma kołaczy</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>odds and ends</f_word>
+    <n_word>drobiazgi</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>over my dead body</f_word>
+    <n_word>po moim trupie</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>sail close to the wind</f_word>
+    <n_word>ryzykować</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>somebody's pride and joy</f_word>
+    <n_word>czyjaś duma i pociecha</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>spick and span</f_word>
+    <n_word>czyściutki, wypucowany (np. pokój)</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>tricks of the trade</f_word>
+    <n_word>sekret zawodowy</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>at first sight</f_word>
+    <n_word>od pierwszego wejrzenia</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>a fly in the ointment</f_word>
+    <n_word>łyżka dziegciu w beczce miodu</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>brevity is the soul of wit</f_word>
+    <n_word>duszą dowcipu jest zwięzłość</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>in for a penny, in for a pound</f_word>
+    <n_word>gdy się powiedziało a, trzeba powiedzieć i b</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>it never rains, but it pours</f_word>
+    <n_word>nieszczęścia chodzą parami</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>jack of all trades, master of none</f_word>
+    <n_word>jak coś jest do wszystkiego, to jest do niczego</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>out of the frying pan, into the fire</f_word>
+    <n_word>z deszczu pod rynnę</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>what youth is used to, age remembers</f_word>
+    <n_word>czym skorupka za młodu nasiąknie, tym na starość trąci</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>zeal without knowledge is a runaway horse</f_word>
+    <n_word>gorliwość bez wiedzy do niczego nie prowadzi</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>different strokes for different folks</f_word>
+    <n_word>każdemu podoba się co innego</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>every cloud has a silver lining</f_word>
+    <n_word>nie ma tego złego, co by na dobre nie wyszło</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>nothing ventured, nothing gained</f_word>
+    <n_word>kto nie ryzykuje, ten nie ma</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>desperate times call for desperate measures</f_word>
+    <n_word>poważne sytuacje wymagają radykalnych środków, trudne sytuacje wymagają trudnych decyzji</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>discretion is the better part of valour</f_word>
+    <n_word>strzeżonego Pan Bóg strzeże</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>keep all one's wits about one</f_word>
+    <n_word>zachować zimną krew, zachować przytomność umysłu</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>he who laughs last laughs best</f_word>
+    <n_word>ten się śmieje, kto się śmieje ostatni</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>make hay while the sun shines</f_word>
+    <n_word>kuć żelazo póki gorące</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>children should be seen and not heard</f_word>
+    <n_word>dzieci i ryby głosu nie mają</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>a stitch in time saves nine</f_word>
+    <n_word>co masz zrobić jutro, zrób dzisiaj</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>beggars can’t be choosers</f_word>
+    <n_word>darowanemu koniowi nie patrzy się w zęby; gdy sie o coś prosi, nie można przebierać</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>united we stand, divided we fall</f_word>
+    <n_word>zgoda buduje, niezgoda rujnuje</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>don't put all your eggs in one basket</f_word>
+    <n_word>nie stawiaj wszystkiego na jedną kartę</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>nature abhors a vacuum</f_word>
+    <n_word>natura nie znosi próżni</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>life is just a bowl of cherries</f_word>
+    <n_word>życie jest piękne</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>he who lives by the sword shall die by the sword</f_word>
+    <n_word>kto mieczem wojuje, od miecza ginie</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>kill not the goose that lays the golden eggs</f_word>
+    <n_word>nie zabija się kury, która znosi złote jaja</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>you can't make an omelette without breaking eggs</f_word>
+    <n_word>gdzie drwa rąbią, tam wióry lecą</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>the proof of the pudding is in the eating</f_word>
+    <n_word>okaże się w praktyce</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>two wrongs don't make a right</f_word>
+    <n_word>złem złego nie naprawisz</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>what doesn't kill you makes you stronger</f_word>
+    <n_word>co cię nie zabije, to cię wzmocni</n_word>
+    <f_sentence></f_sentence>
+    <n_sentence></n_sentence>
+  </word>
+  <word>
+    <f_word>How long should you try? Until.</f_word>
+    <n_word>Jak długo powinieneś próbować? Do skutku.</n_word>
+    <f_sentence />
+    <n_sentence />
+  </word>
+  <word>
+    <f_word>When people agree with me, I always feel that I must be wrong.</f_word>
+    <n_word>Ilekroć ludzie się ze mną zgadzają, czuję, że muszę się mylić.</n_word>
+    <f_sentence />
+    <n_sentence />
+  </word>
+  <word>
+    <f_word>The difference in winning and losing is most often... not quitting.</f_word>
+    <n_word>Różnica między wygrywaniem i przegrywaniem zwykle tkwi w... niepoddawaniu się.</n_word>
+    <f_sentence />
+    <n_sentence />
+  </word>
+  <word>
+    <f_word>Feel the fear and do it anyway.</f_word>
+    <n_word>Czuj strach i zrób to mimo wszystko.</n_word>
+    <f_sentence />
+    <n_sentence />
+  </word>
+  <word>
+    <f_word>A goal without a plan is just a wish.</f_word>
+    <n_word>Cel bez planu jest tylko życzeniem.</n_word>
+    <f_sentence />
+    <n_sentence />
+  </word>
+  <word>
+    <f_word>Well done is better than well said.</f_word>
+    <n_word>Dobrze zrobione jest lepsze niż dobrze powiedziane.</n_word>
+    <f_sentence />
+    <n_sentence />
+  </word>
+  <word>
+    <f_word>My father taught me to work; he did not teach me to love it.</f_word>
+    <n_word>Mój ojciec uczył mnie pracować; nie uczył mnie kochać pracę.</n_word>
+    <f_sentence />
+    <n_sentence />
+  </word>
+  <word>
+    <f_word>There's only one way to succeed in anything and that is to give everything.</f_word>
+    <n_word>Istnieje tylko jeden sposób na odniesienie sukcesu w czymkolwiek i jest nim danie z siebie wszystkiego.</n_word>
+    <f_sentence />
+    <n_sentence />
+  </word>
+  <word>
+    <f_word>I am a believer in punctuality though it makes me very lonely.</f_word>
+    <n_word>Wierzę w punktualność, choć czyni mnie ona bardzo samotnym.</n_word>
+    <f_sentence />
+    <n_sentence />
+  </word>
+  <word>
+    <f_word>That must be wonderful; I don't understand it at all.</f_word>
+    <n_word>To musi być cudowne; w ogóle tego nie rozumiem.</n_word>
+    <f_sentence />
+    <n_sentence />
+  </word>
+  <word>
+    <f_word>Character consists of what you do on the third and fourth tries.</f_word>
+    <n_word>Charakter składa się z tego, co robisz za trzecim i czwartym podejściem.</n_word>
+    <f_sentence />
+    <n_sentence />
+  </word>
+  <word>
+    <f_word>The most important thing about goals is having one.</f_word>
+    <n_word>Najważniejszą rzeczą, jeśli chodzi o cele, jest posiadanie jakichś.</n_word>
+    <f_sentence />
+    <n_sentence />
+  </word>
+  <word>
+    <f_word>The more you say, the less people remember.</f_word>
+    <n_word>Im więcej mówisz, tym mniej ludzie z tego pamiętają.</n_word>
+    <f_sentence />
+    <n_sentence />
+  </word>
+  <word>
+    <f_word>Nothing builds self-esteem and self-confidence like accomplishment.</f_word>
+    <n_word>Nic nie buduje poczucia własnej wartości i pewności siebie tak, jak buduje je osiągnięcie.</n_word>
+    <f_sentence />
+    <n_sentence />
+  </word>
+  <word>
+    <f_word>There is only one person who could ever make you happy, and that person is you.</f_word>
+    <n_word>Istnieje tylko jedna osoba, która kiedykolwiek może uczynić Cię szczęśliwym i tą osobą jesteś Ty.</n_word>
+    <f_sentence />
+    <n_sentence />
+  </word>
+  <word>
+    <f_word>It is never too late to be what you might have been.</f_word>
+    <n_word>Nigdy nie jest za późno, by stać się tym, kim mogliśmy się stać.</n_word>
+    <f_sentence />
+    <n_sentence />
+  </word>
+  <word>
+    <f_word>Fear of failure must never be a reason not to try something.</f_word>
+    <n_word>Strach przed porażką nie może być nigdy powodem, dla którego mielibyśmy czegoś nie spróbować.</n_word>
+    <f_sentence />
+    <n_sentence />
+  </word>
+  <word>
+    <f_word>We generally change ourselves for one of two reasons: inspiration or desperation.</f_word>
+    <n_word>Generalnie, zmieniamy się z jednego z dwóch powodów: inspiracji lub desperacji.</n_word>
+    <f_sentence />
+    <n_sentence />
+  </word>
+  <word>
+    <f_word>Think like a man of action, act like a man of thought.</f_word>
+    <n_word>Myśl, jak człowiek, który działa, działaj, jak człowiek, który myśli.</n_word>
+    <f_sentence />
+    <n_sentence />
+  </word>
+  <word>
+    <f_word>Never look down on anybody unless you're helping him up.</f_word>
+    <n_word>Nigdy nie patrz z góry na nikogo, chyba, że właśnie pomagasz mu wstać.</n_word>
+    <f_sentence />
+    <n_sentence />
+  </word>
+  <word>
+    <f_word>It always seems impossible until it's done.</f_word>
+    <n_word>Zawsze wydaje się, że coś jest niemożliwe, dopóki nie zostanie to zrobione.</n_word>
+    <f_sentence />
+    <n_sentence />
+  </word>
+  <word>
+    <f_word>Pessimism is an excuse for not trying and a guarantee to a personal failure.</f_word>
+    <n_word>Pesymizm jest wymówką, by nie próbować i gwarancją osobistej porażki.</n_word>
+    <f_sentence />
+    <n_sentence />
+  </word>
+  <word>
+    <f_word>Success is simple. Do what's right, the right way, at the right time.</f_word>
+    <n_word>Sukces jest prosty. Zrób co należy, jak należy, kiedy należy.</n_word>
+    <f_sentence />
+    <n_sentence />
+  </word>
+  <word>
+    <f_word>I never tried quitting, and I never quit trying.</f_word>
+    <n_word>Nigdy nie spróbowałam rezygnowania i nigdy nie zrezygnowałam z podejmowania kolejnych prób.</n_word>
+    <f_sentence />
+    <n_sentence />
+  </word>
+</word>

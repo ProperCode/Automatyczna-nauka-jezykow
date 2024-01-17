@@ -1,0 +1,24 @@
+True
+False
+True
+True
+True
+True
+1
+3
+0
+True
+False
+False
+False
+False
+False
+True
+1
+EN - B1 - part 1
+Microsoft Paulina Desktop
+Microsoft Zira Desktop
+3
+True
+-8355712
+False

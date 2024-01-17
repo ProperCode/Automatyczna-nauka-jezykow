@@ -1,0 +1,15 @@
+C:\Users\m\Documents\Visual Studio 2022\Projects\Automatyczna nauka języków\Automatyczna nauka języków\bin\Debug\Automatyczna nauka języków.exe.config
+C:\Users\m\Documents\Visual Studio 2022\Projects\Automatyczna nauka języków\Automatyczna nauka języków\bin\Debug\Automatyczna nauka języków.exe
+C:\Users\m\Documents\Visual Studio 2022\Projects\Automatyczna nauka języków\Automatyczna nauka języków\bin\Debug\Automatyczna nauka języków.pdb
+C:\Users\m\Documents\Visual Studio 2022\Projects\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna nauka języków.csproj.AssemblyReference.cache
+C:\Users\m\Documents\Visual Studio 2022\Projects\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna_nauka_języków.Properties.Resources.resources
+C:\Users\m\Documents\Visual Studio 2022\Projects\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna nauka języków.csproj.GenerateResource.cache
+C:\Users\m\Documents\Visual Studio 2022\Projects\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna nauka języków.csproj.CoreCompileInputs.cache
+C:\Users\m\Documents\Visual Studio 2022\Projects\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna nauka języków.exe
+C:\Users\m\Documents\Visual Studio 2022\Projects\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna nauka języków.pdb
+C:\Users\m\Documents\Visual Studio 2022\Projects\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna_nauka_języków.Form1.resources
+C:\Users\m\Documents\Visual Studio 2022\Projects\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna_nauka_języków.FormAddWord.resources
+C:\Users\m\Documents\Visual Studio 2022\Projects\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna_nauka_języków.FormAddWordbase.resources
+C:\Users\m\Documents\Visual Studio 2022\Projects\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna_nauka_języków.FormControlKeys.resources
+C:\Users\m\Documents\Visual Studio 2022\Projects\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna_nauka_języków.FormHelp.resources
+C:\Users\m\Documents\Visual Studio 2022\Projects\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna_nauka_języków.FormLearning.resources
