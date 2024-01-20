@@ -13,3 +13,18 @@ C:\Users\m\Documents\Visual Studio 2022\Projects\Automatyczna nauka języków\Au
 C:\Users\m\Documents\Visual Studio 2022\Projects\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna_nauka_języków.FormControlKeys.resources
 C:\Users\m\Documents\Visual Studio 2022\Projects\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna_nauka_języków.FormHelp.resources
 C:\Users\m\Documents\Visual Studio 2022\Projects\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna_nauka_języków.FormLearning.resources
+D:\Informatyka\[MOJE]\_Projekty Desktop\_Automatyczna nauka języków\[GITHUB]\Automatyczna nauka języków\Automatyczna nauka języków\bin\Debug\Automatyczna nauka języków.exe.config
+D:\Informatyka\[MOJE]\_Projekty Desktop\_Automatyczna nauka języków\[GITHUB]\Automatyczna nauka języków\Automatyczna nauka języków\bin\Debug\Automatyczna nauka języków.exe
+D:\Informatyka\[MOJE]\_Projekty Desktop\_Automatyczna nauka języków\[GITHUB]\Automatyczna nauka języków\Automatyczna nauka języków\bin\Debug\Automatyczna nauka języków.pdb
+D:\Informatyka\[MOJE]\_Projekty Desktop\_Automatyczna nauka języków\[GITHUB]\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna nauka języków.csproj.AssemblyReference.cache
+D:\Informatyka\[MOJE]\_Projekty Desktop\_Automatyczna nauka języków\[GITHUB]\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna_nauka_języków.Form1.resources
+D:\Informatyka\[MOJE]\_Projekty Desktop\_Automatyczna nauka języków\[GITHUB]\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna_nauka_języków.FormAddWord.resources
+D:\Informatyka\[MOJE]\_Projekty Desktop\_Automatyczna nauka języków\[GITHUB]\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna_nauka_języków.FormAddWordbase.resources
+D:\Informatyka\[MOJE]\_Projekty Desktop\_Automatyczna nauka języków\[GITHUB]\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna_nauka_języków.FormControlKeys.resources
+D:\Informatyka\[MOJE]\_Projekty Desktop\_Automatyczna nauka języków\[GITHUB]\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna_nauka_języków.FormHelp.resources
+D:\Informatyka\[MOJE]\_Projekty Desktop\_Automatyczna nauka języków\[GITHUB]\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna_nauka_języków.FormLearning.resources
+D:\Informatyka\[MOJE]\_Projekty Desktop\_Automatyczna nauka języków\[GITHUB]\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna_nauka_języków.Properties.Resources.resources
+D:\Informatyka\[MOJE]\_Projekty Desktop\_Automatyczna nauka języków\[GITHUB]\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna nauka języków.csproj.GenerateResource.cache
+D:\Informatyka\[MOJE]\_Projekty Desktop\_Automatyczna nauka języków\[GITHUB]\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna nauka języków.csproj.CoreCompileInputs.cache
+D:\Informatyka\[MOJE]\_Projekty Desktop\_Automatyczna nauka języków\[GITHUB]\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna nauka języków.exe
+D:\Informatyka\[MOJE]\_Projekty Desktop\_Automatyczna nauka języków\[GITHUB]\Automatyczna nauka języków\Automatyczna nauka języków\obj\Debug\Automatyczna nauka języków.pdb

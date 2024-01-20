@@ -936,7 +936,7 @@ namespace Automatyczna_nauka_języków
             }
             else if (e.KeyData == Keys.Enter)
             {
-                edit_wordbase();
+                //edit_wordbase();
             }
         }
 
@@ -1278,7 +1278,7 @@ namespace Automatyczna_nauka_języków
         {
             if (e.KeyData == Keys.Enter)
             {
-                edit_word();
+                //edit_word();
             }
             else if (e.KeyData == Keys.Delete)
             {
